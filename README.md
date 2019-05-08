@@ -6,3 +6,8 @@ Cindy has an up and coming start up selling coffee called Black Lab Roasteries. 
 -Type of coffee beans sold there<br/>
 -Cost per package<br/>
 -Map showing the locations of the business in Denver<br/>
+
+
+Setup Instructions:
+
+To install the the Black Lab Roastery unlocked package into your org, just click on this <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I0000036vznQAA">link</a>. The security key is test1234. 
