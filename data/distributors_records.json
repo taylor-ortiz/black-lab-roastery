@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Distributor__c",
+                "referenceId": "ditributorRef"
+            },
+            "Name": "Hunter Bay",
+            "Description__c": "Coffee Shop in Arvada, CO"
+        }
+    ]
+}

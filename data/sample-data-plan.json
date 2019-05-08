@@ -1,0 +1,7 @@
+[
+    {
+        "sobject": "Distributor__c",
+        "saveRefs": false,
+        "files": ["Distributors.json"]
+    }
+]

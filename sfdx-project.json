@@ -1,11 +1,19 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "blackLabRoastery",
+            "versionName": "Summer '19 v1.1",
+            "versionNumber": "1.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "45.0",
+    "packageAliases": {
+        "blackLabRoastery": "0Ho1I000000XZRPSA4",
+        "blackLabRoastery@1.0.0-1": "04t1I0000036vziQAA",
+        "blackLabRoastery@1.1.0-1": "04t1I0000036vznQAA"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "45.0"
 }
