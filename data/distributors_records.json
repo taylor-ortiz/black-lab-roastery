@@ -3,10 +3,90 @@
         {
             "attributes": {
                 "type": "Distributor__c",
-                "referenceId": "ditributorRef"
+                "referenceId": "ditributorRef1"
             },
             "Name": "Hunter Bay",
-            "Description__c": "Coffee Shop in Arvada, CO"
+            "Description__c": "Coffee Shop in Arvada, CO",
+            "Location__Latitude__s" : 39.7995142,
+            "Location__Longitude__s" : -105.0813093,
+            "Address__c" : "5600 Olde Wadsworth Blvd, Arvada, CO 80002"
+        },
+        {
+            "attributes": {
+                "type": "Distributor__c",
+                "referenceId": "ditributorRef2"
+            },
+            "Name": "Corvus Coffee",
+            "Description__c": "Coffee Shop in Denver, CO",
+            "Location__Latitude__s" : 39.6850142,
+            "Location__Longitude__s" : -104.9874312,
+            "Address__c" : "1740 S Broadway, Denver, CO 80210"
+        },
+        {
+            "attributes": {
+                "type": "Distributor__c",
+                "referenceId": "ditributorRef3"
+            },
+            "Name": "Global Goods Coffee Shop",
+            "Description__c": "Coffee Shop in Arvada, CO",
+            "Location__Latitude__s" : 39.7993892,
+            "Location__Longitude__s" : -105.0815205,
+            "Address__c" : "5613 Olde Wadsworth Blvd, Arvada, CO 80002"
+        },
+        {
+            "attributes": {
+                "type": "Distributor__c",
+                "referenceId": "ditributorRef4"
+            },
+            "Name": "Common Grounds Coffee Shop",
+            "Description__c": "Coffee Shop in Denver, CO",
+            "Location__Latitude__s" : 39.7767244,
+            "Location__Longitude__s" : -105.0130463,
+            "Address__c" : "2139 W 44th Ave, Denver, CO 80211"
+        },
+        {
+            "attributes": {
+                "type": "Distributor__c",
+                "referenceId": "ditributorRef5"
+            },
+            "Name": "Downpours Coffee",
+            "Description__c": "Coffee Shop in Denver, CO",
+            "Location__Latitude__s" : 39.7718872,
+            "Location__Longitude__s" : -105.0441562,
+            "Address__c" : "3937 Tennyson St, Denver, CO 80212"
+        },
+        {
+            "attributes": {
+                "type": "Distributor__c",
+                "referenceId": "ditributorRef6"
+            },
+            "Name": "The Bardo Coffee House",
+            "Description__c": "Coffee Shop in Wheat Ridge, CO",
+            "Location__Latitude__s" : 39.7691234,
+            "Location__Longitude__s" : -105.0640949,
+            "Address__c" : "6150 W 38th Ave, Wheat Ridge, CO 80033"
+        },
+        {
+            "attributes": {
+                "type": "Distributor__c",
+                "referenceId": "ditributorRef7"
+            },
+            "Name": "Sugar Cube Coffee",
+            "Description__c": "Coffee Shop in Wheat Ridge, CO",
+            "Location__Latitude__s" : 39.7755944,
+            "Location__Longitude__s" : -105.0815089,
+            "Address__c" : "4313 Wadsworth Blvd, Wheat Ridge, CO 80033"
+        },
+        {
+            "attributes": {
+                "type": "Distributor__c",
+                "referenceId": "ditributorRef8"
+            },
+            "Name": "La Dolce Vita",
+            "Description__c": "Coffee Shop in Arvada, CO",
+            "Location__Latitude__s" : 39.80136,
+            "Location__Longitude__s" : -105.0813173,
+            "Address__c" : "5756 Olde Wadsworth Blvd, Arvada, CO 80002"
         }
     ]
 }

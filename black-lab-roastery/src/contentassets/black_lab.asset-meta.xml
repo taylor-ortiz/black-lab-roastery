@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isVisibleByExternalUsers>true</isVisibleByExternalUsers>
+    <language>en_US</language>
+    <masterLabel>black-lab</masterLabel>
+    <relationships>
+        <organization>
+            <access>VIEWER</access>
+        </organization>
+    </relationships>
+    <versions>
+        <version>
+            <number>1</number>
+            <pathOnClient>687474703a2f2f63726166746265657270617373706f72742d623836302e6b7863646e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f426c61636b2d4c61622d42726577696e672d4c6f676f2e706e67.png</pathOnClient>
+        </version>
+    </versions>
+</ContentAsset>
