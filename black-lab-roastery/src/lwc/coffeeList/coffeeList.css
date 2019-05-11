@@ -1,0 +1,11 @@
+.coffee-list-tile {
+    border: 1px solid #0057b8;
+    border-radius: .25rem;
+    display: block;
+    cursor: pointer;
+}
+
+.coffee-image {
+    height: 232px;
+    width: 232px;
+}

@@ -5,16 +5,39 @@
     <members>Black_Lab_Roastery</members>
   </types>
   <types>
+    <name>ApexClass</name>
+    <members>ctrlCoffeeDistributors</members>
+  </types>
+  <types>
     <name>ContentAsset</name>
     <members>black_lab</members>
   </types>
   <types>
     <name>LightningComponentBundle</name>
+    <members>coffeeList</members>
     <members>testLightningWebComponent</members>
   </types>
   <types>
     <name>CustomObject</name>
     <members>Distributor__c</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Distributor__c.Address__c</members>
+    <members>Distributor__c.Description__c</members>
+    <members>Distributor__c.Location__c</members>
+  </types>
+  <types>
+    <name>ListView</name>
+    <members>Distributor__c.All</members>
+  </types>
+  <types>
+    <name>PermissionSet</name>
+    <members>blackLabRoastery</members>
+  </types>
+  <types>
+    <name>StaticResource</name>
+    <members>coffee_image</members>
   </types>
   <types>
     <name>CustomTab</name>
