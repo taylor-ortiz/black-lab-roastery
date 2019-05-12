@@ -5,7 +5,7 @@ Cindy has an up and coming start up selling coffee beans called Black Lab Roaste
 <ul>
   <li>Tool to view all of the coffee shops she sells to</li>
   <li>From the view all tool, ability to navigate to an individual shop</li>
-  <li>Ability to search for her shops as her business grows</li>
+  <li>Ability to search for her shops as her business grows by Name or the Description of the shop</li>
   <li>She's given you a logo that she would like to see on the view all tool</li>
   <li>A map of the Denver area showing all of her coffee shops. Its a 'nice to have' if the map filters down with the search</li>
 </ul>
