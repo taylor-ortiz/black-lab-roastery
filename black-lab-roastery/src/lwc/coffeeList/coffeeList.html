@@ -3,12 +3,13 @@
         <div class="slds-card__body_inner">
             <template if:true={shops}>
                 <lightning-input type="search"
-					variant="label-hidden"
-					class="slds-m-bottom_small"
-					label="Search"
-					placeholder="Search for Shops"
-					value={searchTerm}>
-				</lightning-input>
+                        onchange={handleSearchTermChange}
+                        variant="label-hidden"
+                        class="slds-m-bottom_small"
+                        label="Search"
+                        placeholder="Search for shops"
+                        value={searchTerm}>
+                    </lightning-input>
                 <lightning-layout multiple-rows="true" pull-to-boundary="small">
                     <template for:each={shops} for:item="shop">
                         <lightning-layout-item key={shop.Id} size="3" class="slds-p-around_x-small">
@@ -29,7 +30,7 @@
                 </lightning-layout>
             </template>
             <template if:true={hasShops}>
-                Looks like you hit an oopsy! Maybe before digging into the code, grab a cup of joe!
+                Looks like there aren't any coffee shops! Try revising your search or reloading the page. Happy roasting!
             </template>
         </div>
     </lightning-card>

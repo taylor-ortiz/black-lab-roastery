@@ -17,6 +17,10 @@
     <members>Home_Page_Default</members>
   </types>
   <types>
+    <name>Layout</name>
+    <members>Shop__c-Shop Layout</members>
+  </types>
+  <types>
     <name>LightningComponentBundle</name>
     <members>coffeeList</members>
     <members>testLightningWebComponent</members>
@@ -40,6 +44,10 @@
   <types>
     <name>PermissionSet</name>
     <members>blackLabRoastery</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
   </types>
   <types>
     <name>StaticResource</name>
