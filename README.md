@@ -13,7 +13,7 @@ Cindy has an up and coming start up selling coffee called Black Lab Roastery. Ci
 
 # Setup Instructions:
 
-1. To install the the Black Lab Roastery unlocked package into your org, just click on this <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I0000036w4eQAA" target="_new">link</a>. The security key is <b>test1234</b>.
+1. To install the the Black Lab Roastery unlocked package into your org, just click on this <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I0000036w4jQAA" target="_new">link</a>. The security key is <b>test1234</b>.
 
 2. Assign the <b>blackLabRoastery</b> permission set to the default user:<br/>
 sfdx force:user:permset:assign -n blackLabRoastery
