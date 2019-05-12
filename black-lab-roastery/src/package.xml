@@ -13,23 +13,29 @@
     <members>black_lab</members>
   </types>
   <types>
+    <name>FlexiPage</name>
+    <members>Home_Page_Default</members>
+  </types>
+  <types>
     <name>LightningComponentBundle</name>
     <members>coffeeList</members>
     <members>testLightningWebComponent</members>
   </types>
   <types>
     <name>CustomObject</name>
-    <members>Distributor__c</members>
+    <members>Item__c</members>
+    <members>Shop__c</members>
   </types>
   <types>
     <name>CustomField</name>
-    <members>Distributor__c.Address__c</members>
-    <members>Distributor__c.Description__c</members>
-    <members>Distributor__c.Location__c</members>
+    <members>Item__c.Shop__c</members>
+    <members>Shop__c.Address__c</members>
+    <members>Shop__c.Description__c</members>
+    <members>Shop__c.Location__c</members>
   </types>
   <types>
     <name>ListView</name>
-    <members>Distributor__c.All</members>
+    <members>Shop__c.All</members>
   </types>
   <types>
     <name>PermissionSet</name>
@@ -41,7 +47,7 @@
   </types>
   <types>
     <name>CustomTab</name>
-    <members>Distributor__c</members>
+    <members>Shop__c</members>
   </types>
   <version>45.0</version>
 </Package>

@@ -1,7 +1,7 @@
 [
     {
-        "sobject": "Distributor__c",
+        "sobject": "Shop__c",
         "saveRefs": false,
-        "files": ["Distributors_records.json"]
+        "files": ["shops_records.json"]
     }
 ]

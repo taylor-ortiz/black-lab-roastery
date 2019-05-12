@@ -1,38 +1,38 @@
 import { LightningElement, track, wire } from 'lwc';
 import { NavigationMixin } from 'lightning/navigation';
-import getAllDistis from '@salesforce/apex/ctrlCoffeeDistributors.getAllDistis';
+import getAllShops from '@salesforce/apex/ctrlCoffeeDistributors.getAllShops';
 import myResource from '@salesforce/resourceUrl/coffee_image';
 export default class coffeeList extends NavigationMixin(LightningElement) {
-    @track distributors;
+    @track shops;
     @track error;
     @track searchTerm = '';
     coffeeImage = myResource;
 
 
-	@wire(getAllDistis, {})
-    getAllDistis(result) {
+	@wire(getAllShops, {})
+    getAllShops(result) {
         if (result.data) {
-            this.distributors = result.data;
+            this.shops = result.data;
         } else if (result.error) {
 			this.error = result;
         }
     }
 
     handleRecordNavigagtion(evt) {
-        let distributorId = evt.currentTarget.getAttribute("data-id");
+        let shopId = evt.currentTarget.getAttribute("data-id");
         // Navigate to bear record page
 		this[NavigationMixin.Navigate]({
 			type: 'standard__recordPage',
 			attributes: {
-				recordId: distributorId,
-				objectApiName: 'Distribution__c',
+				recordId: shopId,
+				objectApiName: 'Shop__c',
 				actionName: 'view',
 			},
 		});
     }
 
     // Function to show other option on how to qualify with directives
-    get hasDistributors() {
+    get hasShops() {
         return typeof this.error !== 'undefined';
     }
 }

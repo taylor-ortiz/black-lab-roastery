@@ -13,11 +13,11 @@
     <label>Black Lab Roastery</label>
     <navType>Console</navType>
     <tabs>standard-home</tabs>
-    <tabs>Distributor__c</tabs>
+    <tabs>Shop__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
         <mappings>
-            <tab>Distributor__c</tab>
+            <tab>Shop__c</tab>
         </mappings>
         <mappings>
             <tab>standard-home</tab>

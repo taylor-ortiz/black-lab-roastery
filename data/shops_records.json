@@ -2,8 +2,8 @@
     "records": [
         {
             "attributes": {
-                "type": "Distributor__c",
-                "referenceId": "ditributor1"
+                "type": "Shop__c",
+                "referenceId": "shop1"
             },
             "Name": "Hunter Bay",
             "Description__c": "Coffee Shop in Arvada, CO",
@@ -13,8 +13,8 @@
         },
         {
             "attributes": {
-                "type": "Distributor__c",
-                "referenceId": "ditributor2"
+                "type": "Shop__c",
+                "referenceId": "shop2"
             },
             "Name": "Corvus Coffee",
             "Description__c": "Coffee Shop in Denver, CO",
@@ -24,8 +24,8 @@
         },
         {
             "attributes": {
-                "type": "Distributor__c",
-                "referenceId": "ditributor3"
+                "type": "Shop__c",
+                "referenceId": "shop3"
             },
             "Name": "Global Goods Coffee Shop",
             "Description__c": "Coffee Shop in Arvada, CO",
@@ -35,8 +35,8 @@
         },
         {
             "attributes": {
-                "type": "Distributor__c",
-                "referenceId": "ditributor4"
+                "type": "Shop__c",
+                "referenceId": "shop4"
             },
             "Name": "Common Grounds Coffee",
             "Description__c": "Coffee Shop in Denver, CO",
@@ -46,8 +46,8 @@
         },
         {
             "attributes": {
-                "type": "Distributor__c",
-                "referenceId": "ditributor5"
+                "type": "Shop__c",
+                "referenceId": "shop5"
             },
             "Name": "Downpours Coffee",
             "Description__c": "Coffee Shop in Denver, CO",
@@ -57,8 +57,8 @@
         },
         {
             "attributes": {
-                "type": "Distributor__c",
-                "referenceId": "ditributor6"
+                "type": "Shop__c",
+                "referenceId": "shop6"
             },
             "Name": "The Bardo Coffee House",
             "Description__c": "Coffee Shop in Wheat Ridge, CO",
@@ -68,8 +68,8 @@
         },
         {
             "attributes": {
-                "type": "Distributor__c",
-                "referenceId": "ditributor7"
+                "type": "Shop__c",
+                "referenceId": "shop7"
             },
             "Name": "Sugar Cube Coffee",
             "Description__c": "Coffee Shop in Wheat Ridge, CO",
@@ -79,8 +79,8 @@
         },
         {
             "attributes": {
-                "type": "Distributor__c",
-                "referenceId": "ditributor8"
+                "type": "Shop__c",
+                "referenceId": "shop8"
             },
             "Name": "La Dolce Vita",
             "Description__c": "Coffee Shop in Arvada, CO",
