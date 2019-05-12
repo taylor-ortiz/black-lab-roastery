@@ -39,6 +39,7 @@
   </types>
   <types>
     <name>ListView</name>
+    <members>Item__c.All</members>
     <members>Shop__c.All</members>
   </types>
   <types>
@@ -55,6 +56,7 @@
   </types>
   <types>
     <name>CustomTab</name>
+    <members>Item__c</members>
     <members>Shop__c</members>
   </types>
   <version>45.0</version>
