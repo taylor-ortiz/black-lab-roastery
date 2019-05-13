@@ -17,7 +17,7 @@ She has a list of other requirements, however she would just like to see a proof
 1. To install the the Black Lab Roastery unlocked package into your org, just click on this <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I0000036w4yQAA" target="_new">link</a>. The security key is <b>test1234</b>.
 
 2. Clone the repository:
-git clone 
+git clone https://github.com/taylor-ortiz/black-lab-roastery.git
 
 3. Assign the <b>blackLabRoastery</b> permission set to the default user:<br/>
 sfdx force:user:permset:assign -n blackLabRoastery
