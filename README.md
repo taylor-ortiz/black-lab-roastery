@@ -16,7 +16,7 @@ She has a list of other requirements, however she would just like to see a proof
 
 1. To install the the Black Lab Roastery unlocked package into your org, just click on this <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1I0000036w4yQAA" target="_new">link</a>. The security key is <b>test1234</b>.
 
-2. Clone the repository:
+2. Clone the repository:<br/>
 git clone https://github.com/taylor-ortiz/black-lab-roastery.git
 
 3. Assign the <b>blackLabRoastery</b> permission set to the default user:<br/>
@@ -24,3 +24,12 @@ sfdx force:user:permset:assign -n blackLabRoastery
 
 4. Load the sample data:<br/>
 sfdx force:data:tree:import --plan ./data/sample-data-plan.json
+
+5. Open org to confirm package installation:<br/>
+sfdx force:org:open
+
+6. Check out package components to familiarize yourself with everything that is included upon installation
+
+
+
+
