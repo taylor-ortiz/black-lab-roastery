@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "blackLabRoastery",
-            "versionName": "Summer '19 v1.6",
-            "versionNumber": "1.6.0.NEXT"
+            "versionName": "Summer '19 v1.7",
+            "versionNumber": "1.7.0.NEXT"
         }
     ],
     "namespace": "",
@@ -19,6 +19,7 @@
         "blackLabRoastery@1.3.0-1": "04t1I0000036w4eQAA",
         "blackLabRoastery@1.4.0-1": "04t1I0000036w4jQAA",
         "blackLabRoastery@1.5.0-1": "04t1I0000036w4oQAA",
-        "blackLabRoastery@1.6.0-1": "04t1I0000036w4tQAA"
+        "blackLabRoastery@1.6.0-1": "04t1I0000036w4tQAA",
+        "blackLabRoastery@1.7.0-1": "04t1I0000036w4yQAA"
     }
 }
