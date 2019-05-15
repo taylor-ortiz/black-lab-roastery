@@ -1,7 +1,7 @@
 ![Test Image 1](http://craftbeerpassport-b860.kxcdn.com/wp-content/uploads/2018/10/Black-Lab-Brewing-Logo.png)
 # black-lab-roastery
 
-Cindy has an up and coming start up selling coffee beans called Black Lab Roastery. Cindy owns a roastery for the coffee beans she buys from all over the world and has also just hired a packaging company. Now, she needs to keep track of the shops she sells to and the performance of her beans. Cindy has recently purachased a Sales Cloud license and would eventually like to track current and projected revenue, cost of packaging and shipping per item, and submitting orders for internal tracking. For now, she would just like to see a proof of concept to ensure shes comfortable with the approcach. She consults with a Salesforce Developer (you) about how she can achieve the following:<br/>
+Cindy has an up and coming start up selling coffee beans called Black Lab Roastery. Cindy owns a roastery for the coffee beans she buys from all over the world and has also just hired a packaging company. Now, she needs to keep track of the shops she sells to and the performance of her beans. Cindy has recently purchased a Sales Cloud license and would eventually like to track current and projected revenue, cost of packaging and shipping per item, and submitting orders for internal tracking. For now, she would just like to see a proof of concept to ensure she's comfortable with the approach. She consults with a Salesforce Developer (you) about how she can achieve the following:<br/>
 <ul>
   <li>Tool to view all of the coffee shops she sells to</li>
   <li>From the view all tool, ability to navigate to an individual shop</li>
